@@ -28,7 +28,7 @@ function Header() {
             <span>👋</span>
             <div style={{ marginLeft: 20}}>
               <p className='p-text'>Hello, I am</p>
-              <h1 className='head-text'>Kimuel</h1>
+              <h1 className='head-text'>Kimuelasdasdas</h1>
             </div>
           </div>
           <div className='tag-cmp app__flex'>
