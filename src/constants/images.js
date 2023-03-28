@@ -34,7 +34,8 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import mongodb from '../assets/mongodb.png'
+import mongodb from '../assets/mongodb.svg'
+import nextjs from '../assets/nextjs.png'
 
 export default {
   email,
@@ -71,4 +72,5 @@ export default {
   skype,
   spotify,
   mongodb,
+  nextjs
 };
