@@ -32,7 +32,7 @@ function Header() {
             </div>
           </div>
           <div className="tag-cmp app__flex">
-            <p className="p-text">Frontend / Fullstack</p>
+            <p className="p-text">Fullstack / Blockchain</p>
             <h1 className="p-text">Web Developer</h1>
           </div>
         </div>
@@ -62,7 +62,7 @@ function Header() {
           images.nextjs,
           images.react,
           images.node,
-          images.mongodb,
+          images.solidity,
         ].map((circle, index) => (
           <div className="circle-cmp app_flex" key={`circle-${index}`}>
             <img src={circle} alt="circle" />

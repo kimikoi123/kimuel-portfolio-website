@@ -36,6 +36,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import mongodb from '../assets/mongodb.svg'
 import nextjs from '../assets/nextjs.png'
+import solidity from '../assets/solidity.png'
 
 export default {
   email,
@@ -72,5 +73,6 @@ export default {
   skype,
   spotify,
   mongodb,
-  nextjs
+  nextjs,
+  solidity
 };
